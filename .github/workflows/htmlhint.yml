@@ -6,7 +6,7 @@ on:
       - '*'
 
 jobs:
-  lint:
+  HTMLHint:
     runs-on: ubuntu-latest
 
     steps:
